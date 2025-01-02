@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>1SC4_Camera1_07-18-19_12-17-270007.png</filename>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <name>SERIOLAFASCIATA-170113103</name>
+    <bndbox>
+      <xmin>1029</xmin>
+      <ymin>365</ymin>
+      <xmax>1350</xmax>
+      <ymax>531</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>RHOMBOPLITESAURORUBENS-170152001</name>
+    <bndbox>
+      <xmin>1575</xmin>
+      <ymin>653</ymin>
+      <xmax>1730</xmax>
+      <ymax>773</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>RHOMBOPLITESAURORUBENS-170152001</name>
+    <bndbox>
+      <xmin>1600</xmin>
+      <ymin>806</ymin>
+      <xmax>1824</xmax>
+      <ymax>982</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>SERIOLAFASCIATA-170113103</name>
+    <bndbox>
+      <xmin>1783</xmin>
+      <ymin>374</ymin>
+      <xmax>1823</xmax>
+      <ymax>439</ymax>
+    </bndbox>
+  </object>
+</annotation>

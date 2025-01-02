@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>4TTTSDC4_Camera4_07-18-19_14-54-520008.png</filename>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>1351</xmin>
+      <ymin>345</ymin>
+      <xmax>1533</xmax>
+      <ymax>472</ymax>
+    </bndbox>
+  </object>
+</annotation>

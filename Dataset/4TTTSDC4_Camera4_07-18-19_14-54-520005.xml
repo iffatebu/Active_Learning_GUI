@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>4TTTSDC4_Camera4_07-18-19_14-54-520005.png</filename>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <name>PAGRUSPAGRUS-170212302</name>
+    <bndbox>
+      <xmin>109</xmin>
+      <ymin>708</ymin>
+      <xmax>183</xmax>
+      <ymax>788</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>1468</xmin>
+      <ymin>289</ymin>
+      <xmax>1711</xmax>
+      <ymax>439</ymax>
+    </bndbox>
+  </object>
+</annotation>

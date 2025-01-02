@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>3TSDDDC2-Camera2_07-18-19_13-51-130002.png</filename>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <name>CALAMUSNODOSUS-170210608</name>
+    <bndbox>
+      <xmin>1324</xmin>
+      <ymin>640</ymin>
+      <xmax>1517</xmax>
+      <ymax>786</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>PAGRUSPAGRUS-170212302</name>
+    <bndbox>
+      <xmin>1152</xmin>
+      <ymin>656</ymin>
+      <xmax>1646</xmax>
+      <ymax>928</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>MALACANTHUSPLUMIERI-170070301</name>
+    <bndbox>
+      <xmin>1672</xmin>
+      <ymin>431</ymin>
+      <xmax>1734</xmax>
+      <ymax>461</ymax>
+    </bndbox>
+  </object>
+</annotation>

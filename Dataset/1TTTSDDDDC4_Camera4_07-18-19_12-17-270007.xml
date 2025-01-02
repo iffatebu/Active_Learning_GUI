@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>1TTTSDDDDC4_Camera4_07-18-19_12-17-270007.png</filename>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <name>CALAMUSPRORIDENS-170210605</name>
+    <bndbox>
+      <xmin>416</xmin>
+      <ymin>645</ymin>
+      <xmax>504</xmax>
+      <ymax>766</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>1TTTTSDDDDDDDDDDC4_Camera5_07-18-19_12-17-270006.png</filename>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <name>SERIOLARIVOLIANA-170113105</name>
+    <bndbox>
+      <xmin>1056</xmin>
+      <ymin>482</ymin>
+      <xmax>1668</xmax>
+      <ymax>799</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>CALAMUSPRORIDENS-170210605</name>
+    <bndbox>
+      <xmin>1599</xmin>
+      <ymin>742</ymin>
+      <xmax>1826</xmax>
+      <ymax>874</ymax>
+    </bndbox>
+  </object>
+</annotation>
